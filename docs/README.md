@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: https://www.baidu.com/img/PCfb_5bf082d29588c07f842ccde3f97243ea.png
 heroText: Hero Title
 tagline: Hero tag line
 actionText: Start →
@@ -14,3 +14,11 @@ features:
   details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
 footer: MIT Licensed | Copyright © 2020-present
 ---
+
+其他markdown测试
+
+测试测试
+
+::: tip 测试
+内容内容
+:::

@@ -5,8 +5,8 @@ module.exports = {
   themeConfig: {
     // 导航
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
+      { text: '首页', link: '/' },
+      { text: '指南', link: '/guide/' },
       { text: 'External', link: 'https://google.com' },
     ],
     // 侧边栏
@@ -27,7 +27,7 @@ module.exports = {
       description: 'Vue-powered Static Site Generator'
     },
     '/zh/': {
-      lang: 'zh-CN',
+      lang: '简体中文',
       title: 'VuePress中文',
       description: 'Vue 驱动的静态网站生成器'
     }
